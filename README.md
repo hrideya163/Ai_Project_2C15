@@ -55,3 +55,7 @@ recommendations and operational insights.
 ### Step 1: Install Dependencies
 ```bash
 pip install pandas numpy scikit-learn matplotlib streamlit joblib
+### Step 2: Generate Data
+```bash
+python data_generation.py
+
